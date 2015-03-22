@@ -39,6 +39,5 @@ We made use of:
 
 ## Contributing
 
-In order to build and run our app:
 
 Our code is licensed under the [MIT License](LICENSE.md). Pull requests will be accepted to this repo, pending review and approval.
