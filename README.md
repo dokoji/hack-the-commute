@@ -1,51 +1,44 @@
 # hack-the-commute
 Hack the Commute
 https://codeforseattle.hackpad.com/
-# Evergreen Awesome Hackathon: My Sample App
+# Hack the Commute Hackathon: dokoji app
 
-The purpose of this app is to provide an example of how to best format an app submission on [Github](http://github.com) for a hackathon. If you'd like to suggest changes or improvements to this example, feel free to send me a pull request.
 
-This application was developed on February 5th, 2015 for the [Evergreen Awesome Hackthon](http://example.com/this-goes-nowhere).
 
-![Isn't our app beautiful?!](screenshot.jpg)
+This application was developed on March 22, 2015 for City of Seattle's hack the Commute hackathon. http://hackthecommute.seattle.gov/
 
-Our app is live at http://example.com/awesome-app-that-doesnt-exist. You can log in as the demo user "unicorns" with password "sartfarkles". You can also check out [this demo screencast](https://www.youtube.com/watch?v=dQw4w9WgXcQ) of our application on YouTube.
+Everyone has experienced the difficulty of arranging a meetup for a group of friends or family members. This issue is magnified in certain communities, specifically the refugee and immigrant communities, that are underserved in terms of digital access - they often lack computers or internet access, and they also are not heavy users of apps. They primarily use their phones to talk and text, so they are not accustomed to using different apps to research, shop, etc.
 
-## Challenge and Approach
+The dokoji messaging app was created to provide localized, contextual recommendations for dining, entertainment, shopping and more based on the users' text conversation, and integrated directly into the users' conversation. This allows people in these communities to have much richer, informed conversations, which in turn helps them make smarter decisions and increase their digital equity. 
 
-Our submission is for [Challenge #3: Build an app that provides an example of an Awesome Hackathon submission](http://example.com/this-also-goes-nowhere).
+Moving out from these communities, we realized that this app could offer the same benefits to everyone - people can use it to more easily plan get togethers- find a place to meet, make reservations, set calendar reminders and keep track of everyone's journey.
 
-Our approach for satisfying this challenge was to:
-
-- Develop an example Git repository
-- Share it on Github
-- Collect feedback from the community
-
-Once we did that, we knew we were guaranteed to win!
+The app is currently built out and usable for the functions described above. For Hack the Commute, we integrated data sets that would allow people to explore green transportation options, so once a group of people had picked a destination, they would be presented with 3 options: Find the closest bus using the OneBusAway data set; find the closest bike rental location using the Pronto data set; and a carpool option (future implementation). On the back end, we also integrated impact data from Washington State Department of Transportation. 
 
 ## Team Members
 
 Our team is comprised of:
 
-- [@chrismetcalf](http://github.com/chrismetcalf) - README.md author and all around awesome guy
-- [@torvalds](http://github.com/torvalds) - Wrangler of penguins
-- [@matz](http://github.com/matz) - Miner of Rubies
-- [@gvanrossum](http://github.com/gvanrossum) - Python charmer
+- Jon Madamba - Program Management
+- Budi Mulyo - Dev
+- Shubham Shukla Lead Dev
+- Chris Wilson - Marketing
+- Shelly Farnham - Analytics/UX
+- Eric Mentele - Dev
+- Eliass Tiendredbeogo - Dev
 
 ## Technologies, APIs, and Datasets Utilized
 
 We made use of:
 
-- Hand harvested unicorn tears. Unicorns are very happy creatures, its hard to make them cry.
-- [mod_bf](http://modbf.sourceforge.net/)
-- The [Top 1,000 Songs To Hear Before You Die](https://opendata.socrata.com/Fun/Top-1-000-Songs-To-Hear-Before-You-Die/ed74-c6ni) dataset and [API](http://dev.socrata.com/foundry/#/opendata.socrata.com/ed74-c6ni)
+- Data set from OneBusAway
+- Data set from Pronto
+- Data set from Socrata
+- Impact data from Washington State DOT
+
 
 ## Contributing
 
 In order to build and run our app:
-
-1. Harvest yourself some unicorn tears. They're expensive to purchase on your own.
-2. [Deploy your the code](https://github.com/masylum/Brainfuck-on-Rails) to [Heroku](http://heroku.com)
-3. Profit
 
 Our code is licensed under the [MIT License](LICENSE.md). Pull requests will be accepted to this repo, pending review and approval.
