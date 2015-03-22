@@ -32,8 +32,7 @@ Our team is comprised of:
 We made use of:
 
 - Data set from OneBusAway
-- Data set from Pronto
-- Data set from Socrata
+- Data set from Pronto through Socrata
 - Impact data from Washington State DOT
 
 
