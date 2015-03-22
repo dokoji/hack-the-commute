@@ -31,9 +31,11 @@ Our team is comprised of:
 
 We made use of:
 
-- Data set from OneBusAway
-- Data set from Pronto through Socrata
+- Data set from OneBusAway - http://api.pugetsound.onebusaway.org/api/where/routes-for-location.json
+- Data set from Pronto through Socrata - https://communities.socrata.com/resource/rsib-fvg5.json
 - Impact data from Washington State DOT
+- Objective C
+- Python
 
 
 ## Contributing
