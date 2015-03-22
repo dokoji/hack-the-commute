@@ -25,7 +25,7 @@ Our team is comprised of:
 - Chris Wilson - Marketing
 - Shelly Farnham - Analytics/UX
 - Eric Mentele - Dev
-- Eliass Tiendredbeogo - Dev
+- Iliass Tiendredbeogo - Dev
 
 ## Technologies, APIs, and Datasets Utilized
 
