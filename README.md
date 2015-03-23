@@ -3,6 +3,9 @@ Hack the Commute
 https://codeforseattle.hackpad.com/
 # Hack the Commute Hackathon: dokoji app
 
+dokoji.com
+POWER POINT PRESENTATION: https://github.com/dokoji/hack-the-commute/blob/master/Dokoji_HackTheCommute.pptx
+
 
 
 This application was developed on March 22, 2015 for City of Seattle's hack the Commute hackathon. http://hackthecommute.seattle.gov/
